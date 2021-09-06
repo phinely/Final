@@ -2,7 +2,7 @@
 <footer class="site-footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <h6>À propos</h6>
                 <p class="text-justify">
                 Grace à nos propres sites acquis et ceux des partenaires fonciers, nous pouvons  prendre en charge, l’achat de notre terrain en passant 
@@ -29,7 +29,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-3 col-sm-12">
+            <div class="col-md-2 col-sm-12">
                 <ul>
                     <li><a href="http://"><i class="fab fa-whatsapp"></i> Nous joindre sur Whatsapp</a></li>
                     <li><a href="http://"><i class="fab fa-telegram-plane"></i></a> Nous joindre sur Telegram</li>

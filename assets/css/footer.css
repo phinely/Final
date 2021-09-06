@@ -129,7 +129,7 @@ header.sticky .navigation li a{
     text-decoration: none;
 }
 .site-footer .ese{
-    color: #fff;
+    color:#ff0157;
 }
 .footer-links {
     padding-left: 0;
@@ -162,6 +162,9 @@ footer li{
 
 .copyright-text{
     margin: 0;
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
 }
 @media(max-width:991px){
     .site-footer [class^="col-"]{
