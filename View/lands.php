@@ -1,6 +1,6 @@
 <?php
 
-$host="51.178.86.41";
+$host="localhost";
 $database = "hme_db_usr_freddy_adjh";
 $user="usr_freddy_adjh";
 $password="2h15XpQX";
