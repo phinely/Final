@@ -138,7 +138,15 @@ header.sticky .navigation li a{
 .footer-links li{
     display: block;
 }
-
+footer li{
+    list-style: none;
+}
+.fa-whatsapp{
+    color: rgb(0, 209, 122);
+}
+.fa-telegram-plane{
+    color: rgb(115, 142, 230);
+}
 .footer-links a{
     color:#737373;
     margin: 15px 0;
