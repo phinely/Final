@@ -7,8 +7,8 @@ $root = $_SERVER['DOCUMENT_ROOT'];
 $host = $_SERVER['HTTP_HOST'];
 
 
-define('HOST','http://'.$host.'/Final');
-define('ROOT',$root.'/Final');
+define('HOST', (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http').$_SERVER['SERVER_NAME']);
+define('ROOT',$root);
 
 
 define('CONTROLLER',ROOT.'Controller/');
