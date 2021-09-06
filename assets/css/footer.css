@@ -104,7 +104,7 @@ header.sticky .navigation li a{
 .text-justify{
     text-align: justify;
     letter-spacing: 1px;
-    font-size: 15px;
+    font-size: 12px;
 }
 .site-footer form input::placeholder{
     color: #fff;
@@ -159,7 +159,9 @@ footer li{
     text-decoration: none;
 }
 
-
+.allfootfa{
+    font-size: 12px;
+}
 .copyright-text{
     margin: 0;
     text-align: center;
