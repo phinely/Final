@@ -143,6 +143,15 @@ window.addEventListener("scroll",function(){
         autoplay: true,
         autoplaySpeed: 2000,
     });
+        
+    $('.fade').slick({
+    dots: true,
+    infinite: true,
+    speed: 500,
+    fade: true,
+    cssEase: 'linear',
+    autoplay: true
+    });
   </script>
 </body>
 </html>

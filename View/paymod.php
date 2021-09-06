@@ -1,5 +1,5 @@
 <section class="paymod container-fluid">
-    <h6><span class="first">N</span>os modes de paiment</h6>
+    <h6><span class="first">N</span>os modes de paiement</h6>
    <div class="container">
     <div class="row">
             <div class="col-md-4">
