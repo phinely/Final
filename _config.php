@@ -7,8 +7,8 @@ $root = $_SERVER['DOCUMENT_ROOT'];
 $host = $_SERVER['HTTP_HOST'];
 
 
-define('HOST','http://'.$host.'/MMG/MMG_WebSite/');
-define('ROOT',$root.'/MMG/MMG_WebSite/');
+define('HOST','http://'.$host.'/MMG/Final/');
+define('ROOT',$root.'/MMG/Final/');
 
 
 define('CONTROLLER',ROOT.'Controller/');
