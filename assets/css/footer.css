@@ -104,7 +104,7 @@ header.sticky .navigation li a{
 .text-justify{
     text-align: justify;
     letter-spacing: 1px;
-    width: 50%;
+    font-size: 15px;
 }
 .site-footer form input::placeholder{
     color: #fff;
