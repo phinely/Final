@@ -16,7 +16,9 @@
     <link rel="stylesheet" href="<?php echo ASSETS?>css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo ASSETS?>css/jarallax.css">
     <link rel="shortcut icon" href="<?php echo ASSETS;?>stock-images/homepage/logo.png">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css"/>
+    <link rel="stylesheet" href="<?php echo ASSETS?>css/slick.css">
+    <link rel="stylesheet" href="<?php echo ASSETS?>css/slick-theme.css">
+
   </head>
 <body>
 
