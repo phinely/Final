@@ -2,7 +2,7 @@
 <footer class="site-footer">
     <div class="container">
         <div class="row">
-            <div class="col-sm-12 col-md-6">
+            <div class="col-md-3">
                 <h6>À propos</h6>
                 <p class="text-justify">
                 Grace à nos propres sites acquis et ceux des partenaires fonciers, nous pouvons  prendre en charge, l’achat de notre terrain en passant 
@@ -10,7 +10,7 @@
                     <br>Notre devise : l’efficacité, l’engagement, la confiance
                 </p>
             </div>
-            <div class="col-6 col-md-3 col-sm-12">
+            <div class="col-md-3 col-sm-12">
                 <h6>Restons connecter</h6>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                     Facilis ducimus esse expedita repellendus placeat. Quas eos, </p>
@@ -19,7 +19,7 @@
                 </form>
             </div>
 
-            <div class="col-6 col-md-3 col-sm-12">
+            <div class=" col-md-3 col-sm-12">
                 <h6>Liens rapides</h6>
                 <ul class="footer-links">
                     <li><a href="#">MacBolan Immobilier</a></li>
@@ -29,10 +29,17 @@
                 </ul>
             </div>
 
+            <div class="col-md-3 col-sm-12">
+                <ul>
+                    <li><a href="http://"><i class="fas fa-whatsapp"></i> Nous joindre sur Whatsapp</a></li>
+                    <li><a href="http://"><i class="fas fa-telegram-plane"> Nous joindre sur Telegram</i></a></li>
+                </ul>
+            </div>
+
         </div>
-        <div class="fooIm">
+        <!-- <div class="fooIm">
             <img src="<?php echo ASSETS?>stock-images/1.png" alt=""><img src="<?php echo ASSETS?>stock-images/2.png" alt="">
-        </div>
+        </div> -->
         <hr class="small">
 
         <div class="container">

@@ -1,11 +1,12 @@
 <?php
 
-$host="localhost";
-$database = "mac_bolan";
-$user="root";
-$password="";
+$host="51.178.86.41";
+$database = "hme_db_usr_freddy_adjh";
+$user="usr_freddy_adjh";
+$password="2h15XpQX";
+$port=3306;
 
-$bdd = new PDO('mysql:host='.$host.';dbname='.$database.';charset=utf8',$user,$password);
+$bdd = new PDO('mysql:host='.$host.';dbname='.$database.'port='.$port.';charset=utf8',$user,$password);
 
 $q = $bdd->query("SELECT * FROM lands");
 
