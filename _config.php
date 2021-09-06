@@ -17,4 +17,3 @@ define('MODEL',ROOT.'Model/');
 define('CLASSES',ROOT.'Classes/');
 
 define('ASSETS',HOST.'assets/');
-define('SOCK',HOST.'sockets/node_modules/socket.io/client-dist/');
