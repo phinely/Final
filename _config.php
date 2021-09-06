@@ -14,6 +14,6 @@ define('ROOT',$root.'/MMG/Final/');
 define('CONTROLLER',ROOT.'Controller/');
 define('VIEW',ROOT.'View/');
 define('MODEL',ROOT.'Model/');
-define('CLASSES',ROOT.'Classes/');
+define('CLASSES',ROOT.'/Classes/');
 
 define('ASSETS',HOST.'assets/');
