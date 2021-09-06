@@ -144,7 +144,7 @@ window.addEventListener("scroll",function(){
         autoplaySpeed: 2000,
     });
         
-    $('.fade').slick({
+    $('.car').slick({
     dots: true,
     infinite: true,
     speed: 500,
