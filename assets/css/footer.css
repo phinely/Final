@@ -106,6 +106,9 @@ header.sticky .navigation li a{
     letter-spacing: 1px;
     font-size: 12px;
 }
+.site-footer p{
+    font-size: 12px;
+}
 .site-footer form input::placeholder{
     color: #fff;
 }
