@@ -54,13 +54,18 @@
     <h6><span class="first">N</span>os engins de forages</h6>
     <p>Ce dont nous disposons parmi tant d'autres</p>
     <div class="container autoplay">
-        <div>your content</div>
-        <div>your content</div>
-        <div>your content</div>
-        <div>your content</div>
-        <div>your content</div>
-        <div>your content</div>
-        <div>your content</div>
+        <div class="imBox">
+            <img src="<?php echo ASSETS;?>stock-images/forage/im-01.jpg" alt="">
+        </div>
+        <div class="imBox">
+            <img src="<?php echo ASSETS;?>stock-images/forage/im-02.jpg" alt="">
+        </div>
+        <div class="imBox">
+            <img src="<?php echo ASSETS;?>stock-images/forage/im-03.jpg" alt="">
+        </div>
+        <div class="imBox">
+            <img src="<?php echo ASSETS;?>stock-images/forage/im-04.jpg" alt="">
+        </div>
     </div>
 
 </section>

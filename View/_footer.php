@@ -37,6 +37,11 @@
             </div>
 
         </div>
+        <div class="fooIm">
+            <img src="<?php echo ASSETS;?>stock-images/1.png" alt="">
+            <img src="<?php echo ASSETS;?>stock-images/2.png" alt="">
+            <img src="<?php echo ASSETS;?>stock-images/3.png" alt="">
+        </div>
         <hr class="small">
 
         <div class="container">

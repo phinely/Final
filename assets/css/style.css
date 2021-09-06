@@ -754,28 +754,29 @@ object-fit: cover;
 
 }
 
-.engins .col-md-3 .box{
-    position:relative;
-    width: 250px;
-    height: 300px;
-    overflow: hidden;
-    transition: .5s;
-
-}
-
 .engins h6{
     font-size: 2em;
     text-align: center;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
-.engins .col-md-3 .box img{
+.engins p{
+    text-align: center;
+}
+
+.engins .autoplay .imBox{
+    position: relative;
+    height: 300px;
+    width: 250px;
+}
+.engins .autoplay .imBox img{
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     object-fit: cover;
 }
+
 
 .hotel .form{
    position: absolute;
