@@ -21,6 +21,9 @@ body{
     position: relative;
     height: 100vh;
 }
+.car{
+    height: 100vh;
+}
 .home .car .imgBox{
     position: relative;
     height: 100%;
