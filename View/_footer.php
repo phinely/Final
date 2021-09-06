@@ -31,7 +31,7 @@
 
             <div class="col-md-2 col-sm-12 allfootfa">
                 <ul>
-                    <li><a href="https://api.whatsapp.com/send/?phone=237697036836&text=dire quelque chose &app_absent=0"><i class="fab fa-whatsapp"></i> Nous joindre sur Whatsapp</a></li>
+                    <li><a href="https://api.whatsapp.com/send/?phone=237697036836&text=dites quelque chose"><i class="fab fa-whatsapp"></i> Nous joindre sur Whatsapp</a></li>
                     <li><a href="http://"><i class="fab fa-telegram-plane"></i></a> Nous joindre sur Telegram</li>
                 </ul>
             </div>
