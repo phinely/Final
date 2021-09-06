@@ -32,14 +32,11 @@
             <div class="col-md-3 col-sm-12">
                 <ul>
                     <li><a href="http://"><i class="fad fa-whatsapp"></i> Nous joindre sur Whatsapp</a></li>
-                    <li><a href="http://"><i class="fad fa-telegram-plane"> Nous joindre sur Telegram</i></a></li>
+                    <li><a href="http://"><i class="fad fa-telegram-plane"></i></a> Nous joindre sur Telegram</li>
                 </ul>
             </div>
 
         </div>
-        <!-- <div class="fooIm">
-            <img src="<?php echo ASSETS?>stock-images/1.png" alt=""><img src="<?php echo ASSETS?>stock-images/2.png" alt="">
-        </div> -->
         <hr class="small">
 
         <div class="container">
