@@ -17,10 +17,8 @@ Concernant le bâtiment grâce à la rubrique MAC BOLAN Architectural, nous prop
 </p>
         </div>
         <div class="col-md-6">
-            <div class="imgbox"><img src="<?php echo ASSETS?>stock-images/pdg.jpg" alt=""></div>
+            <div class="imgbox"><img src="<?php echo ASSETS?>stock-images/Josephkanga.jpg" alt="Joseph kanga"></div>
         </div>
     </div>
 
 </section>
-
-<?php require_once("paymod.php");?>
