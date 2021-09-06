@@ -1,42 +1,5 @@
-<section class="home container-fluid">
-<!-- <div id="carousel" class="carousel slide" data-bs-ride="carousel">
-<div class="carousel-controls">
-        <ol class="carousel-indicators">
-            <li data-bs-target="#carousel" data-bs-slide-to="0" class="active" style="background-image:url('<?php //echo ASSETS?>stock-images/immo.jpg');"></li>
-            <li data-bs-target="#carousel" data-bs-slide-to="1" style="background-image:url('<?php //echo ASSETS?>stock-images/cham.jpg');"></li>
-            <li data-bs-target="#carousel" data-bs-slide-to="2" style="background-image:url('<?php //echo ASSETS?>stock-images/homepage/mcb/01.jpg');"></li>
-            <li data-bs-target="#carousel" data-bs-slide-to="3" style="background-image:url('<?php //echo ASSETS?>stock-images/im1.jpg');"></li>
+<section class="home container-fluid car">
 
-        </ol>
-</div>
-  <div class="carousel-inner">
-    <div class="carousel-item active" style="background-image:url('<?php //echo ASSETS?>stock-images/immo.jpg');">
-        <div class="container">
-            <h2>Immobilier</h2>
-            <p>Nous sommes à votre écoute et ne vous proposons que ce que vous désirez</p>
-        </div>
-    </div>
-    <div class="carousel-item" style="background-image:url('<?php //echo ASSETS?>stock-images/cham.jpg');">
-        <div class="container">
-            <h2>Faites vos réservations</h2>
-            <p>Mac Bolan services vous offre la possibilité de faire des réservations de chambres d'hôtel sur toute l'étendue du territoire Camerounais</p>
-        </div>
-    </div>
-    <div class="carousel-item" style="background-image:url('<?php //echo ASSETS?>stock-images/homepage/mcb/01.jpg');">
-        <div class="container">
-            <h2>Engins de terrassement</h2>
-            <p>Le groupe MACBOLAN vous propose des engins pour vos travaux de terrasement...</p>
-        </div>
-    </div>
-    <div class="carousel-item" style="background-image:url('<?php //echo ASSETS?>stock-images/im1.jpg');">
-        <div class="container">
-            <h2>Architecture et réalisations</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus aliquid minima...</p>
-        </div>
-    </div>
-  </div>
-</div> -->
-<div class="car">
     <div>
         <div class="imgBox">
             <img src="<?php echo ASSETS?>stock-images/immo.jpg" alt="">
@@ -61,7 +24,6 @@
             <div class="content"></div>
         </div>
     </div>
-</div>
 </section>
 
 <section class="rubrique" id="rubrique">
