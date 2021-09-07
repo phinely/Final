@@ -264,6 +264,9 @@ footer li{
     .carousel .imgBox img{
         height: auto;
     }
+    .carousel::before{
+        height: auto;
+    }
 }
 
 
