@@ -102,10 +102,9 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  <script src="<?php echo ASSETS;?>js/slick.js"></script>
-  <script src="<?php echo ASSETS;?>js/slick.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="<?php echo ASSETS;?>js/slick.min.js"></script>
 
 
 <script>
@@ -143,15 +142,16 @@ window.addEventListener("scroll",function(){
         autoplay: true,
         autoplaySpeed: 2000,
     });
-        
-    $('.car').slick({
-    dots: true,
-    infinite: true,
-    speed: 500,
-    fade: true,
-    cssEase: 'linear',
-    autoplay: true
-    });
-  </script>
+   
+   $('.carousel').slick({
+     dots: true,
+     infinite: true,
+     speed: 500,
+     fade: true,
+     cssEase: 'linear',
+     autoplay: true,
+     autoplaySpeed: 4000,
+   });
+   </script>
 </body>
 </html>
