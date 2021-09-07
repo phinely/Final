@@ -121,7 +121,9 @@ header.sticky .navigation li a{
     color: #fff;
     width: 30px;
 }
-
+#check{
+    display: none;
+}
 .site-footer a{
     color: #737373;
     text-decoration: none;
@@ -222,7 +224,47 @@ footer li{
 }
 
 
-
+@media (max-width:860px) {
+    nav ul{
+        position: fixed;
+        width: 100%;
+        background: rgb(255, 24, 74);
+        height: 100vh;
+        top: 80px;
+        left: -100%;
+        text-align: center;
+        display: block;
+        transition: all .4s;
+    }
+    nav ul li a{
+        font-size: 15px;
+    }
+    nav ul li{
+        display: block;
+        margin: 50px 0;
+        line-height: 30px;
+    }
+    header .logo{
+        width: 100%;
+        left: 0;
+        transition: all .4s;
+    }
+    #check{
+        display: block;
+    }
+    #check:checked ~ ul{
+        left: 0;
+    }
+    #check:checked ~ .logo{
+        background: rgb(255, 24, 74);
+    }
+    #check:checked ~ .logo a{
+        color: #fff;
+    }
+    .carousel .imgBox img{
+        height: auto;
+    }
+}
 
 
 
