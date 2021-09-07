@@ -29,11 +29,11 @@
   
   <a href="?r=index" class="logo">Mac Bolan <span>Services</span>
   </a>
-  <input type="checkbox" name="" id="check">
+  <!-- <input type="checkbox" name="" id="check">
     <label for="check">
         <i class="fas fa-bars" id="btn"></i>
         <i class="fas fa-times" id="cancel"></i>
-    </label>
+    </label> -->
   
   <ul class="navigation">
     <li><a href="?r=index">Accueil</a></li>
