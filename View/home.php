@@ -17,7 +17,7 @@
     </div>
     <div class="content">
         <div class="imgBox">
-            <img src="c<?php echo ASSETS?>stock-images/cham.jpg" alt="">
+            <img src="<?php echo ASSETS?>stock-images/cham.jpg" alt="">
         </div>
         <div class="text-content">
 
@@ -25,7 +25,7 @@
     </div>
     <div class="content">
         <div class="imgBox">
-            <img src="c<?php echo ASSETS?>stock-images/app.jpg" alt="">
+            <img src="<?php echo ASSETS?>stock-images/app.jpg" alt="">
         </div>
         <div class="text-content">
 
@@ -33,7 +33,7 @@
     </div>
     <div class="content">
         <div class="imgBox">
-            <img src="c<?php echo ASSETS?>stock-images/terrain2.jpg" alt="">
+            <img src="<?php echo ASSETS?>stock-images/terrain2.jpg" alt="">
         </div>
         <div class="text-content">
 
@@ -41,7 +41,7 @@
     </div>
     <div class="content">
         <div class="imgBox">
-            <img src="c<?php echo ASSETS?>stock-images/BTP.jpg" alt="">
+            <img src="<?php echo ASSETS?>stock-images/BTP.jpg" alt="">
         </div>
         <div class="text-content">
 
