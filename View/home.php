@@ -4,7 +4,7 @@
             <img src="<?php echo ASSETS?>stock-images/homepage/mcb/07.jpg" alt="">
         </div>
         <div class="text-content">
-
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quos soluta nesciunt libero necessi</p>
         </div>
     </div>
     <div class="content">
@@ -12,7 +12,7 @@
             <img src="<?php echo ASSETS?>stock-images/homepage/piaule.jpg" alt="">
         </div>
         <div class="text-content">
-
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quos soluta nesciunt libero necessi</p>
         </div>
     </div>
     <div class="content">
@@ -20,7 +20,7 @@
             <img src="<?php echo ASSETS?>stock-images/cham.jpg" alt="">
         </div>
         <div class="text-content">
-
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quos soluta nesciunt libero necessi</p>
         </div>
     </div>
     <div class="content">
@@ -28,7 +28,7 @@
             <img src="<?php echo ASSETS?>stock-images/app.jpg" alt="">
         </div>
         <div class="text-content">
-
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quos soluta nesciunt libero necessi</p>
         </div>
     </div>
     <div class="content">
@@ -36,7 +36,7 @@
             <img src="<?php echo ASSETS?>stock-images/terrain2.jpg" alt="">
         </div>
         <div class="text-content">
-
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quos soluta nesciunt libero necessi</p>
         </div>
     </div>
     <div class="content">
@@ -44,7 +44,7 @@
             <img src="<?php echo ASSETS?>stock-images/BTP.jpg" alt="">
         </div>
         <div class="text-content">
-
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quos soluta nesciunt libero necessi</p>
         </div>
     </div>
 </div>
