@@ -120,6 +120,7 @@ body{
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #fff;
+    font-weight: 700;
 }
 
 @keyframes fadeInLeft{
