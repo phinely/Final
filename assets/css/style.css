@@ -96,7 +96,7 @@ body{
     height: 100%;
     width: 100%;
     background: rgba(14, 13, 13, 0.459);
-    z-index: 9;
+    z-index: 6;
     pointer-events: none;
 }
 

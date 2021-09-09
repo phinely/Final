@@ -36,7 +36,7 @@
             <img src="<?php echo ASSETS?>stock-images/terrain2.jpg" alt="">
         </div>
         <div class="text-content">
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis quos soluta nesciunt libero necessi</p>
+        <p>Terrains viabilisés chez nous</p>
         </div>
     </div>
     <div class="content">
@@ -44,7 +44,7 @@
             <img src="<?php echo ASSETS?>stock-images/BTP.jpg" alt="">
         </div>
         <div class="text-content">
-        <p>Terrains titrés et sécurisés à des prix imbattables chez nous</p>
+        <p>Rêvez et nous batissons !</p>
         </div>
     </div>
 </div>
