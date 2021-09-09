@@ -24,7 +24,7 @@
 
 
 <!-- navbar start -->
-
+<div id="preloader"></div>
 <header>
   
   <a href="?r=index" class="logo">Mac Bolan <span>Services</span>

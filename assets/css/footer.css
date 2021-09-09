@@ -269,6 +269,13 @@ footer li{
     }
 }
 
+#preloader{
+    position: fixed;
+    background: rgb(255, 255, 255) url("../stock-images/load.gif") no-repeat center center;
+    height: 100vh;
+    width: 100%;
+    background-size: 15%;
+}
 
 
 
