@@ -157,6 +157,12 @@ window.addEventListener("scroll",function(){
      autoplay: true,
      autoplaySpeed: 4000,
    });
+
+   $(document).ready(function(){
+       $(window).scroll(function(){
+           $('.carousel').css('opacity',1 - $(window).scrollTop() / 700;)
+       })
+   })
    </script>
 </body>
 </html>
