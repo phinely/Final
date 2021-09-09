@@ -271,7 +271,7 @@ footer li{
 
 #preloader{
     position: fixed;
-    background: rgb(241, 233, 233) url("../stock-images/load.gif") no-repeat center center;
+    background: rgb(243, 239, 239) url("../stock-images/load.gif") no-repeat center center;
     height: 100vh;
     width: 100%;
     background-size: 15%;

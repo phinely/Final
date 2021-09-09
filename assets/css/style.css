@@ -111,8 +111,9 @@ body{
 .carousel .text-content{
     position: absolute;
     top: 80%;
-    left: 30%;
+    left: 50%;
     transform: translate(-50%,-50%);
+    z-index: 4;
 }
 .carousel .text-content p{
     font-size: 1.5em;
